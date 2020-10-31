@@ -1,0 +1,73 @@
+"Nome do Campo 
+Tag 
+Tipo 
+Descrição",,,
+Agência Cliente,AgCli,Agencia,"Número da agência do cliente, sem o dígito verificador."
+Agência Cliente Pagador,AgCliPagdr,Agencia,Número da agência bancária do cliente pagador.
+Agência Creditada,AgCredtd,Agencia,Número da agência da Instituição Financeira a ser creditada.
+Agência Debitada,AgDebtd,Agencia,Número da agência da Instituição Financeira a ser debitada.
+Agência Destino,AgDest,Agencia,Agência de Destino
+Agência IF,AgIF,Agencia,Número da agência da Instituição Financeira que atua no sistema financeiro.
+Agência IF Compradora,AgIFCompdor,Agencia,Agência da IF compradora em um contrato.
+Agência IF País Pagamento,AgIFPaisPgto,Agencia,Agência da IF no país do pagamento.
+Agente Leilão Câmbio,AgtLeiCam,AgtLeiCam,Agente do leilão de câmbio.
+Alíquota IR,AlqIR,PercJuros,Alíquota do Imposto de Renda.
+Alíquota Proagro,AlqProagro,Percentual,Alíquota do Proagro.
+Altitude Ponto,AlttPonto,Altt,Altitude do ponto.
+Ano Mês Competência,AnoMesComptc,AnoMes,Ano mês competência
+Ano Mês Competência 13,AnoMesComptc13,AnoMes13,"Ano mês competência, admitindo mês 13."
+Ano Mês Fim,AnoMesFim,AnoMes,Ano-mês de fim.
+Ano Mês Final Pesquisa,AnoMesFinlPesq,AnoMes,Ano mês final da pesquisa.
+Ano Mês Inicial Pesquisa,AnoMesInialPesq,AnoMes,Ano mês inicial da pesquisa.
+Ano Mês Início,AnoMesIni,AnoMes,Ano-mês de início.
+Ano Mês Referência,AnoMesRef,AnoMes,Ano mês de referência.
+Área,Area,Area,Área em hectares.
+Área Não Cultivada,AreaNCultd,Area,Área não cultivada da gleba.
+Bairro Endereço Portador Remessa,BairEndPortRemessa,BairroEnd,Bairro referente ao endereço do portador (pessoa física ou jurídica) do  numerário suspeito.
+Canal Operação Interbancária,CanOpInterbanc,CanOpInterbanc,Canal de origem da operação interbancária.
+Canal Pagamento,CanPgto,CanPgto,Canal de Pagamento do Bloqueto
+Canal Pagamento Baixa Efetiva,CanPgtoBaixaEft,CanPgto,Canal de pagamento baixa efetiva.
+Canal Pagamento Baixa Operacional,CanPgtoBaixaOperac,CanPgto,Canal de pagamento baixa operacional.
+Categoria,Catg,Catg,Descreve a família e o tipo do numerário.
+Categoria Incluída,CatgIncld,Catg,Categoria incluída.
+Categoria Venda,CatgVenda,Catg,Categoria da moeda vendida.
+CDE,CDE,CtBancaria,Número da conta de domiciliado no exterior em moeda nacional (CDE).
+CDE Contraparte,CDECtrapart,CtBancaria,Número da CDE da contraparte da transferência internacional em reais (TIR).
+CEP Beneficiário Original,CEPBenfcrioOr,CEP,CEP do beneficiário original.
+CEP Endereço Portador Remessa,CEPEndPortRemessa,CEP,CEP do portador (pessoa física ou jurídica) do numerário suspeito.
+CEP Importador,CEPImptdr,CEPIntnl,CEP do Importador.
+CEP Pagador,CEPPagdr,CEP,CEP do pagador.
+Certificado Ativo,CertifAtv,CertifSerie,Número de série do certificado ativo
+Certificado Digital,CertifDig,CertifDig,Ceritificado digital
+Chave Associação Câmbio,ChACAM,ControleIF,Chave de associação para contratos de câmbio entre IF e Câmara.
+Chave Associação Selic,ChASEL,OpSEL,Elemento de ligação entre operações a serem atualizadas  concomitantemente no Selic .
+Cidade Beneficiário Original,CidBenfcrioOr,CidEnd,Cidade do beneficiário original.
+Cidade Importador,CidImptdr,CidEnd,Cidade do Importador.
+Cidade Pagador,CidPagdr,CidEnd,Cidade do pagador.
+CMC7 Cheque,CMC7Cheq,CMC7,CMC-7 do cheque.
+CNPJ Administrador,CNPJAdmdr,CNPJ,CNPJ do Administrador.
+CNPJ Agente Financeiro,CNPJAgtFinanc,CNPJ,"CNPJ do Agente Financeiro responsável pelo recolhimento, à CAIXA, das  contribuições 
+devidas ao FCVS, relativas às obrigações à vista, mensal  e/ou trimestral;"
+CNPJ Base,CNPJBase,CNPJBase,Base do CNPJ
+CNPJ Base Beneficiário,CNPJBaseBenfcrio,CNPJBase,CNPJ Base do Beneficiário
+CNPJ Base Câmara,CNPJBaseCamr,CNPJBase,CNPJ base da câmara.
+CNPJ Base Cliente,CNPJBaseCli,CNPJBase,CNPJ base do cliente.
+CNPJ Base Corretora,CNPJBaseCortr,CNPJBase,CNPJ base da corretora.
+CNPJ Base Dealer,CNPJBaseDealer,CNPJBase,"CNPJ base do ""dealer"" de câmbio.."
+CNPJ Base Depositário,CNPJBaseDpsitario,CNPJBase,CNPJ Base do depositário.
+CNPJ Base Entidade Manutenção,CNPJBaseEntManut,CNPJBase,Primeiras 8 posições do CNPJ da entidade de manutenção
+CNPJ Base Entidade Responsável,CNPJBaseEntRespons,CNPJBase,Primeiras 8 posições do CNPJ da entidade responsável.
+CNPJ Base IF,CNPJBaseIF,CNPJBase,CNPJ base da IF.
+CNPJ Base IF CDE Contraparte,CNPJBaseIFCDECtrapart,CNPJBase,CNPJ base da IF detentora da CDE da contraparte da TIR.
+CNPJ Base IF Incorporada,CNPJBaseIFIncorpd,CNPJBase,CNPJ base da IF incorporada.
+CNPJ Base IF Incorporadora,CNPJBaseIFIncorpdr,CNPJBase,CNPJ base da IF incorporadora.
+CNPJ Base IF ou Câmara,CNPJBaseIF_Camr,CNPJBase,CNPJ base da IF ou da câmara.
+CNPJ Base IF Pagador ou Recebedor País,"CNPJBaseIFPagdr_RecbdrPai
+s",CNPJBase,CNPJ base da IF do pagador ou do recebedor no País.
+CNPJ Base IF Parceira,CNPJBaseIFParcr,CNPJBase,CNPJ base da IF parceira.
+CNPJ Base Instituição Mutuante,CNPJBaseInstMutnte,CNPJBase,CNPJ base da instituição mutuante no Progro Mais.
+CNPJ Base Originador Consulta,CNPJBaseOrigdrCons,CNPJBase,"CNPJ base do originador da consulta. Por exemplo, provedoras de informações para 
+aprovação de crédito."
+CNPJ Base ou CPF Proprietário,CNPJBase_CPFPropt,CNPJBase_CPF,CNPJ base ou CPF do proprietário.
+CNPJ Base Participante,CNPJBasePart,CNPJBase,Primeiras 8 posições do CNPJ do participante.
+CNPJ Câmara,CNPJCamr,CNPJ,CNPJ da câmara.
